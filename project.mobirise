@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "TAVUKKANAT.html",
     "name": "KEBAPÇI",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 157,
+    "uniqCompNum": 160,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -38,23 +38,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -113,7 +96,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-a",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -253,37 +236,6 @@
           "title": "DÜRÜMLER",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-12",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!"
         }
       ]
     },
@@ -311,13 +263,13 @@
           },
           "_anchor": "features3-6",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/kusbas-2000x1224.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#d14841",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -438,13 +390,13 @@
           },
           "_anchor": "features3-7",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/patlcn-kk-2000x1334.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#d14841",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -663,13 +615,13 @@
           },
           "_anchor": "features3-9",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/beyti-kebap-2000x1337.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#d14841",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -787,31 +739,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#d14841",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-3",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -920,36 +855,19 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MarkoPOS.html\" aria-expanded=\"false\">HAKKIMIZDA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-d",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
           "_anchor": "features3-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/tavukdonerpilav1-2000x1331.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -977,7 +895,7 @@
             }
           },
           "title1": "ACILI NOHUT<br>",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "<b>5 TL</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -993,7 +911,7 @@
             }
           },
           "title2": "SADE NOHUT",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "<b>5 TL</b>",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -1009,7 +927,7 @@
             }
           },
           "title3": "<p>KAVURMA&nbsp;</p>",
-          "subtitle3": "Google has a highly exhaustive lisof fonts",
+          "subtitle3": "<b>5 TL</b>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -1025,7 +943,7 @@
             }
           },
           "title4": "ÖKÇE",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "<b>5 TL</b>",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -1051,7 +969,17 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "B": {
+              "font-size": "20px",
+              "color": "#cccccc"
+            },
+            "H5": {
+              "font-size": "20px",
+              "color": "#cccccc"
+            }
+          }
         },
         {
           "_tags": [
@@ -1060,13 +988,13 @@
           "_name": "features3",
           "_anchor": "features3-h",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/d7ae873f4c94072ec15ba0624941eb2a-2000x1331.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1094,7 +1022,7 @@
             }
           },
           "title1": "PATATES KIZARMASI",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "<b>5 TL</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -1110,7 +1038,7 @@
             }
           },
           "title2": "TAVUK PİLAV",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "<b>5 TL</b>",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -1126,7 +1054,7 @@
             }
           },
           "title3": "DÖNER",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "<b>7 TL</b>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -1164,7 +1092,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "font-size": "20px",
+              "color": "#cccccc"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -1184,14 +1118,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#00a885",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -1225,22 +1159,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1257,9 +1191,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-a",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -1298,6 +1232,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -1308,10 +1245,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#2969b0",
             "showMeta": true
           },
-          "title": "ADANA KEBABI",
+          "title": "ADANA KEBAP",
           "meta": ""
         },
         {
@@ -1339,26 +1276,26 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1369-800x547.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1369.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1322-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1322.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1700-800x680.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1316-800x526.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1316.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#2969b0",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -1368,33 +1305,30 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#cccccc"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-13",
+          "_name": "header3",
+          "_anchor": "header3-4d",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/adana-kebabi-tarifi-2000x1332.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0",
+            "showMeta": true
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "title": "ADANA KEBAP",
+          "meta": "Adana Kebap Malzemeleri<br>500 gr. Kuzu Eti ( kaburga ve but tarafından)<br>125 gr. Kuzu kuyruk (yağı)<br>Kırmızı biber<br>Karabiber<br>Tuz<br>1-2 diş sarımsak – İsteğe Bağlı<br>Adana Kebap Yapılışı<br>Kuzu kaburga ve but tarafından olan 500 gr. Etin sinirleri alınıp temizlenir.<br>Et satır, satır yoksa iri ve kesin bir bıçak yardımıyla, tahta üzerinde, kıyılarak el kıyması haline gEtirilir.<br>Kuyruk yağı da aynı şekilde tahta üzerindeki Ete eklenerek, hepsi karıştırılarak iyice kıyılır.<br>Az tuz, kırmızı biber, karabiber ve arzuya göre 1-2 diş sarımsak da eklenerek, en az 10-15 dakika boyunca, Et özleşene kadar, çok iyi bir şekilde yoğrulur.<br>Üzeri örtülüp buzdolabına alınır ve bir gece dinlendirilir. Beklemeye vaktiniz yoksa en az 1 saat dinlendirilir.<br>Dinlendirilen Et tekrar iyice yoğrulduktan sonra, yumruk büyüklüğünde porsiyonlar halinde alınır.<br>Et, (el hafif ıslatılıp) seri bir şekilde sıvazlanarak yassı şişlere dizilir. Bu şekilde şişlere saplanan Et, sıvazlanıp bastırılarak düzgün bir şekilde şişlere yayılır.<br>Ne çok ince ne de çok kalın olmalıdır.<br>Servis saatine yakın zaman kadar tekrar dinlendirilen şişler, ızgaranın veya mangalın üzerine atılarak pişirilir.<br>Adana kebap, yanında şalgam suyu, pişmiş soğan salatası, sumaklı salata, acılı ezme, ayran, haydari, bol yeşillik, mevsim salatası, lavaş vs. gibi garnitürler ile sıcak olarak servise sunulur.<br>AfiyEt Olsun<br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1414,14 +1348,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#2969b0",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -1455,22 +1389,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1487,9 +1421,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-a",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -1538,7 +1472,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#7e9b9f",
             "showMeta": true
           },
           "title": "PATLICAN KEBABI",
@@ -1569,10 +1503,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/patlican-kebabi-2000x1021-800x408.jpg",
-                "image": "@PROJECT_PATH@/assets/images/patlican-kebabi-2000x1021.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/patlican-kebabi-2000x1350-800x540.jpg",
+                "image": "@PROJECT_PATH@/assets/images/patlican-kebabi-2000x1350.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1582,13 +1516,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/patlican-kebabi-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/patlican-kebabi-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -1598,33 +1532,27 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1a",
+          "_name": "header3",
+          "_anchor": "header3-4e",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/patlican-kebab-2000x1333.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#7e9b9f",
+            "showMeta": true
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "title": "PATLICAN KEBABI",
+          "meta": "Patlıcan Kebabı Tarifi İçin Malzemeler:<br>1 kilo patlıcan (kemer patlıcanı).<br>Köftesi İçin:<br>Yarım kilo kuzu-dana karışık kıyma,<br>Yarım demet maydanoz,<br>4-5 diş sarımsak,<br>1 adet büyük soğan,<br>2 yemek kaşığı zeytinyağı,<br>Karabiber,<br>Tuz.<br>Garnitürü İçin:<br>Domates,<br>Sivri biber.<br><br>Patlıcan Kebabı Yapılışı<br><br>Patlıcanları 3 parmak genişliğinde doğrayalım.<br>Fırın tepsisine bir kaç damla zeytin yağı damlatalım ve tepsiyi yağlayalım.<br>Patlıcanların şeklini bozmadan (patlıcanlar bölünmemiş gibi)  tepsiye dizelim.<br>Önceden ısıtılmış 230° fırında 40 dakika pişirelim.(patlıcanların inceliğine ve fırının pişirme hızına göre pişirme süresi değişiklik gösterebilir)<br>Robota sarımsağı, maydanozu, soğanı koyalım ve robottan geçirelim.<br>Herhangi bir kabın içine robottan geçirdiğimiz malzemeleri, kıymayı, zeytin yağını, karabiberi, tuzu koyalım ve güzelce yoğuralım.<br>Harçtan küçük parçalar koparalım ve elimizle yuvarlak şekil verelim.<br>Patlıcan dilimlerinin arasına köfteleri yerleştirip, patlıcanları birbirine yaslayalım.<br>Kalan boşluklara domates, sivri biber yerleştirelim.<br>Köfteli Patlıcan Kebabımızı tekrar 220° fırına koyalım ve köfteler pişene kadar bekleyip, servise sunalım. Afiyet olsun.<br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1644,14 +1572,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -1685,22 +1613,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1717,9 +1645,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-a",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -1768,7 +1696,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#41a85f",
             "showMeta": true
           },
           "title": "KUŞBAŞI KEBAP",
@@ -1799,8 +1727,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/imamcagdas-kebap-kusbasi-2000x1497-800x598.jpg",
-                "image": "@PROJECT_PATH@/assets/images/imamcagdas-kebap-kusbasi-2000x1497.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imamcagdas-kebap-kusbasi-2000x1135-800x454.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imamcagdas-kebap-kusbasi-2000x1135.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1809,8 +1737,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kusbas-2000x1224-800x489.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kusbas-2000x1224.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kusbas-2000x1143-800x457.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kusbas-2000x1143.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1818,7 +1746,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#41a85f",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -1828,33 +1756,27 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-1e",
+          "_name": "header3",
+          "_anchor": "header3-4f",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/s-071ddf9d7d2d14713826a2f350a999a1240af625-2000x853.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f",
+            "showMeta": true
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "title": "KUŞBAŞI KEBAP",
+          "meta": "Antep Terbiyeli Kuşbaşı Malzemeleri 1 kg. Kuşbaşı kebaplık doğramış et 50-60 gr. Doğranmış kuyruk Yarım yemek kaşığı domates salçası 1 Tatlı kaşığı biber salçası Yarım su bardağı su Yarım su bardağı süt 1-2 Yemek kaşığı zeytinyağı Yarım yemek kaşığı toz kırmızı biber Küçük bir diş sarımsak (arzu edenler) Antep Terbiyeli Kuşbaşı Hazırlanışı Et, kuyruk, salçalar, dövülmüş sarımsak, toz biber ve yeterli tuz ilave edilen tüm malzemeler su, süt, zeytinyağı ve tuz ilave edilerek iyice karıştırılır. Mangalın boyuna göre şişlere, kuyruklar büyükse iki veya üçe bölünerek 7-8 adet et ve aralara iki, üç adet küçük kuyruk saplanır. Harı geçmiş ateşte devamlı aynı yönde çevrilerek pişirilir. Karabiber yenirken ilave edilir. NOT: Bu kebap baharda kuzu eti ile sadece tuz, kekik ve su ilave edilerek Sade Kuşbaşı Kebap olarak da yapılır. Terbiyeye neden su ilave ettiğimizi tavsiyeler bölümünde yazmıştık. Arzu edenler terbiye yapılırken 2 yemek kaşığı zeytinyağı, 1 çay kaşığı iyice ufaltılmış kekik ilave edebilir. Normalde Antep terbiyesine bu malzemeler hatta tarifteki sarımsak konulmaz. Ancak mevcut etlerin aroması istenen lezzette olmadığından, biraz olsun lezzetlendirmek için tavsiye ediyorum. Pide ekmekle içinde sade, yanında yeşil salata, maydanoz piyazı ve ayranla tavsiye edilir.<br><br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1874,14 +1796,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#41a85f",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -1891,40 +1813,6 @@
         "meta_descr": "MarkoPOS Menu v1.0"
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1o",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/patlican-kebab-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1949,22 +1837,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1983,7 +1871,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -2027,7 +1915,7 @@
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
-            "bgColor": "#fff",
+            "bgColor": "#faaf40",
             "googleMap": {
               "address": "gaziantep\n",
               "placeId": "ChIJL4zx97TmMRUR0KprETWLLsA",
@@ -2043,7 +1931,7 @@
               "font-size": "24px"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#ffffff"
             },
             ".btn": {
               "font-size": "20px"
@@ -2060,7 +1948,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#faaf40",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2096,14 +1984,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#faaf40",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -2137,22 +2025,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2169,9 +2057,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1m",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -2220,7 +2108,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#f97352",
             "showMeta": true
           },
           "title": "KIYMA KEBABI",
@@ -2251,8 +2139,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1700-800x680.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1316-800x526.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adana-kebap-servis-2000x1316.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2261,8 +2149,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1369-800x547.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1369.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1322-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1322.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2270,7 +2158,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#f97352",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -2280,47 +2168,21 @@
           "allItem": "All"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1y",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/adana-kebab-2000x1369.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             "B": {
               "color": "#efefef",
               "font-size": "19px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "SMALL": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -2331,7 +2193,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#303030",
+            "bgColor": "#f97352",
             "showMeta": true
           },
           "title": "KIYMA KEBABI",
@@ -2355,14 +2217,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -2396,22 +2258,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2428,9 +2290,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1m",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -2479,7 +2341,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#7e9b9f",
             "showMeta": true
           },
           "title": "CİĞER KEBABI",
@@ -2500,8 +2362,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cer-k-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cer-k-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cer-k-2000x1076-800x430.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cer-k-2000x1076.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2520,8 +2382,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cer-2000x895-800x358.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cer-2000x895.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/470-2000x1128-800x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/470-2000x1128.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2529,7 +2391,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#7e9b9f",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -2539,41 +2401,12 @@
           "allItem": "All"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-24",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/470-2000x900.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             "B": {
               "color": "#efefef",
@@ -2582,7 +2415,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SMALL": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -2593,7 +2427,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#303030",
+            "bgColor": "#7e9b9f",
             "showMeta": true
           },
           "title": "CİĞER KEBABI",
@@ -2617,14 +2451,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -2658,22 +2492,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2690,9 +2524,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1m",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -2731,6 +2565,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -2741,7 +2578,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#d14841",
             "showMeta": true
           },
           "title": "YÜREK KEBABI",
@@ -2782,8 +2619,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cesmi-kebap-ocakbasi2-2000x1443-800x577.png",
-                "image": "@PROJECT_PATH@/assets/images/cesmi-kebap-ocakbasi2-2000x1443.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cesmi-kebap-ocakbasi2-2000x1340-800x536.png",
+                "image": "@PROJECT_PATH@/assets/images/cesmi-kebap-ocakbasi2-2000x1340.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2791,7 +2628,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#d14841",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -2799,35 +2636,6 @@
           "_anchor": "gallery3-29",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2a",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ozbakirkoy-durumcusu-2000x1328.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -2844,7 +2652,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SMALL": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -2855,7 +2664,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#303030",
+            "bgColor": "#d14841",
             "showMeta": true
           },
           "title": "YÜREK KEBABI",
@@ -2879,14 +2688,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#d14841",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -2920,22 +2729,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2952,9 +2761,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1m",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -3003,7 +2812,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#b8312f",
             "showMeta": true
           },
           "title": "BEYTİ KEBABI",
@@ -3024,10 +2833,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/beyti-2000x1178-800x471.png",
-                "image": "@PROJECT_PATH@/assets/images/beyti-2000x1178.png",
+                "thumb": "@PROJECT_PATH@/assets/images/beyti-2000x1340-800x536.png",
+                "image": "@PROJECT_PATH@/assets/images/beyti-2000x1340.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -3047,13 +2856,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/beyti-kebap-2-2000x1328-800x531.jpg",
                 "image": "@PROJECT_PATH@/assets/images/beyti-kebap-2-2000x1328.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#b8312f",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -3063,41 +2872,12 @@
           "allItem": "All"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2g",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/beyti-kebap-2000x1337.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             "B": {
               "color": "#efefef",
@@ -3106,7 +2886,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SMALL": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3117,7 +2898,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#303030",
+            "bgColor": "#b8312f",
             "showMeta": true
           },
           "title": "BEYTİ KEBABI",
@@ -3141,14 +2922,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#b8312f",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -3182,22 +2963,22 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -3214,9 +2995,9 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1m",
+          "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -3265,7 +3046,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#c0a375",
             "showMeta": true
           },
           "title": "TAVUK KELEBEK",
@@ -3286,8 +3067,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/taps002-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/taps002-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/taps002-2000x1340-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/taps002-2000x1340.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3306,8 +3087,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/55323822b1ba8-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/55323822b1ba8-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/55323822b1ba8-2000x1329-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/55323822b1ba8-2000x1329.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -3315,7 +3096,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#c0a375",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -3325,41 +3106,12 @@
           "allItem": "All"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2m",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/taps002-2000x1500.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             "B": {
               "color": "#efefef",
@@ -3368,7 +3120,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SMALL": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -3379,7 +3132,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#303030",
+            "bgColor": "#c0a375",
             "showMeta": true
           },
           "title": "TAVUK KELEBEK",
@@ -3403,542 +3156,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
     "TAVUKKUŞBAŞI.html": {
-      "settings": {
-        "title": "MarkoPOS Menu",
-        "meta_descr": "MarkoPOS Menu v1.0"
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1m",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.7",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-300x150-256x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MarkoPOS.html\">HAKKIMIZDA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2q",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "TAVUK KUŞBAŞI",
-          "meta": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tavuk-sis-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tavuk-sis-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tavuk-i-2000x1337-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tavuk-i-2000x1337.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1123-800x449.jpg",
-                "image": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1123.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-2r",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2s",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/tavuk-sis-2000x1500.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#c1c1c1"
-            },
-            "B": {
-              "color": "#efefef",
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "SMALL": {
-              "font-size": "17px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2t",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#303030",
-            "showMeta": true
-          },
-          "title": "TAVUK KUŞBAŞI",
-          "meta": "<b>Malzemeler</b><br>•    2 adet tavuk göğüs eti <br>•    1 çay kaşığı kekik<br>•    1 çay kaşığı kırmızı pul biber<br>•    4-5 yemek kaşığı zeytinyağı,<br>•    2-3 yemek kaşığı süt   <br>•    2 yemek kaşığı yoğurt<br>•    1 yemek kaşığı salça<br>•    Tuz<br>•    Tahta şiş<br>•    Alüminyum folyo<br><b>Yapılışı: </b><br>1.    Tavuk göğüs etlerini kare kare doğrayın. ve zeytinyağını, süt, kırmızı biber ve kekikle karıştırın. <br>2.    Zeytinyağı, süt, yoğurt, salça, kekik ve pul biberi karıştırıp sos hazırlayın.<br>3.    Tavuk etlerinizi hazırladığınız sosta en az 1 saat beklettikten sonra şişe dizin.<br>4.    Şişin sap kısımlarını fırın sıcaklığından zarar görmemesi için alüminyum folyo ile sarın. <br>5.    220 ºC fırında hafif pembeleşene kadar pişirin.<br>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-2u",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
-        }
-      ]
-    },
-    "TAVUKSARMA.html": {
-      "settings": {
-        "title": "MarkoPOS Menu",
-        "meta_descr": "MarkoPOS Menu v1.0"
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2v",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.7",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-300x150-256x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MarkoPOS.html\">HAKKIMIZDA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2w",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "TAVUK SARMA",
-          "meta": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sebzeli-tavuk-sarma-tarifi-2000x937-800x374.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sebzeli-tavuk-sarma-tarifi-2000x937.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pazili-tavuk-sarma-tarifi-2000x1115-800x446.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pazili-tavuk-sarma-tarifi-2000x1115.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bulgurlu-tavuk-sarma-2000x1416-800x566.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bulgurlu-tavuk-sarma-2000x1416.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-2x",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2y",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bulgurlu-tavuk-sarma-2000x1416.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#c1c1c1"
-            },
-            "B": {
-              "color": "#efefef",
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "SMALL": {
-              "font-size": "17px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2z",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#303030",
-            "showMeta": true
-          },
-          "title": "TAVUK SARMA",
-          "meta": "Tavuk Sarma Tarifi<br><br>Harika bir tavuk yemeği daha… Yapımı çok basit. Görüntüsü de iştah açıcı. Yılbaşı yaklaşıyor, ve bu tarifin sizlere çok yardımcı olacağını düşünüyorum. Görüntüsü ile de sofralarınızı süsleyecektir. Afiyetle yemeniz dileğiyle…<br><br>MALZEMELERİ:<br><br>1/2 kilo tavuk göğsü<br>İÇİNE:<br>4 dilim kaşar peyniri<br>2 yemek kaşığı bezelye<br>2 tane küçük boy havuç<br>SOSU:<br>2 çorba kaşığı süt<br>1 tatlı kaşığı kekik<br>1 çay kaşığı tavuk baharatı<br>1 tatlı kaşığı salça<br>1/2 çay bardağından biraz az sıvı yağ<br>Az bir şey tuz<br>YAPILIŞI:<br>1. Geniş ve derin bir kapta sütümüzü, salçamızı, sıvıyağımızı, baharatlarımızı ve tuzumuzu katarak sosumuzu hazırlıyoruz.<br><br>2. Tavuk göğüslerimizi boyuna balık açar gibi açtıktan sonra hazırlamış olduğumuz sosa buluyoruz. Üzerine streç film örterek et döver gibi dövüyoruz.<br><br>3. Diğer tarafta kaşarımızı dilimliyoruz. Havuçlarımızı küçük kareler halinde doğradıktan sonra haşlıyoruz. Bezelyelerimizi de iyice yıkıyoruz. Havuçlarımız haşlandıktan sonra bezelye ile birlikte karıştırıyoruz.<br><br>4. Tavuklarımızın içine hazırladığımız harcı ve kaşar peynirini koyarak, sarıyoruz. Daha sonra biraz dinlendiriyoruz. Kısık ateşte her tarafı iyice kızarana kadar pişiriyoruz.<br>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-30",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
-        }
-      ]
-    },
-    "TAVUKKANAT.html": {
       "settings": {
         "title": "MarkoPOS Menu",
         "meta_descr": "MarkoPOS Menu v1.0"
@@ -3977,13 +3206,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -4002,7 +3231,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -4041,6 +3270,390 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#cccccc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#00a885",
+            "showMeta": true
+          },
+          "title": "TAVUK KUŞBAŞI",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tavuk-sis-2000x1320-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tavuk-sis-2000x1320.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tavuk-i-2000x1337-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tavuk-i-2000x1337.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1316-800x526.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1316.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#00a885",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#cccccc"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "17px",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#00a885",
+            "showMeta": true
+          },
+          "title": "TAVUK KUŞBAŞI",
+          "meta": "<b>Malzemeler</b><br>•    2 adet tavuk göğüs eti <br>•    1 çay kaşığı kekik<br>•    1 çay kaşığı kırmızı pul biber<br>•    4-5 yemek kaşığı zeytinyağı,<br>•    2-3 yemek kaşığı süt   <br>•    2 yemek kaşığı yoğurt<br>•    1 yemek kaşığı salça<br>•    Tuz<br>•    Tahta şiş<br>•    Alüminyum folyo<br><b>Yapılışı: </b><br>1.    Tavuk göğüs etlerini kare kare doğrayın. ve zeytinyağını, süt, kırmızı biber ve kekikle karıştırın. <br>2.    Zeytinyağı, süt, yoğurt, salça, kekik ve pul biberi karıştırıp sos hazırlayın.<br>3.    Tavuk etlerinizi hazırladığınız sosta en az 1 saat beklettikten sonra şişe dizin.<br>4.    Şişin sap kısımlarını fırın sıcaklığından zarar görmemesi için alüminyum folyo ile sarın. <br>5.    220 ºC fırında hafif pembeleşene kadar pişirin.<br>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
+        }
+      ]
+    },
+    "TAVUKSARMA.html": {
+      "settings": {
+        "title": "MarkoPOS Menu",
+        "meta_descr": "MarkoPOS Menu v1.0"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#343e57"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#414e6d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#475577"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2v",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.7",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-300x150-256x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MarkoPOS.html\">HAKKIMIZDA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#8c8c8c"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#faaf40",
+            "showMeta": true
+          },
+          "title": "TAVUK SARMA",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sebzeli-tavuk-sarma-tarifi-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sebzeli-tavuk-sarma-tarifi-2000x1122.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pazili-tavuk-sarma-tarifi-2000x1115-800x446.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pazili-tavuk-sarma-tarifi-2000x1115.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bulgurlu-tavuk-sarma-2000x1133-800x453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bulgurlu-tavuk-sarma-2000x1133.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#faaf40",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2x",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#5b5b5b"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "SMALL": {
+              "font-size": "17px",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2z",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#faaf40",
+            "showMeta": true
+          },
+          "title": "TAVUK SARMA",
+          "meta": "Tavuk Sarma Tarifi<br><br>Harika bir tavuk yemeği daha… Yapımı çok basit. Görüntüsü de iştah açıcı. Yılbaşı yaklaşıyor, ve bu tarifin sizlere çok yardımcı olacağını düşünüyorum. Görüntüsü ile de sofralarınızı süsleyecektir. Afiyetle yemeniz dileğiyle…<br><br>MALZEMELERİ:<br><br>1/2 kilo tavuk göğsü<br>İÇİNE:<br>4 dilim kaşar peyniri<br>2 yemek kaşığı bezelye<br>2 tane küçük boy havuç<br>SOSU:<br>2 çorba kaşığı süt<br>1 tatlı kaşığı kekik<br>1 çay kaşığı tavuk baharatı<br>1 tatlı kaşığı salça<br>1/2 çay bardağından biraz az sıvı yağ<br>Az bir şey tuz<br>YAPILIŞI:<br>1. Geniş ve derin bir kapta sütümüzü, salçamızı, sıvıyağımızı, baharatlarımızı ve tuzumuzu katarak sosumuzu hazırlıyoruz.<br><br>2. Tavuk göğüslerimizi boyuna balık açar gibi açtıktan sonra hazırlamış olduğumuz sosa buluyoruz. Üzerine streç film örterek et döver gibi dövüyoruz.<br><br>3. Diğer tarafta kaşarımızı dilimliyoruz. Havuçlarımızı küçük kareler halinde doğradıktan sonra haşlıyoruz. Bezelyelerimizi de iyice yıkıyoruz. Havuçlarımız haşlandıktan sonra bezelye ile birlikte karıştırıyoruz.<br><br>4. Tavuklarımızın içine hazırladığımız harcı ve kaşar peynirini koyarak, sarıyoruz. Daha sonra biraz dinlendiriyoruz. Kısık ateşte her tarafı iyice kızarana kadar pişiriyoruz.<br>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-30",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#faaf40",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
+        }
+      ]
+    },
+    "TAVUKKANAT.html": {
+      "settings": {
+        "title": "MarkoPOS Menu",
+        "meta_descr": "MarkoPOS Menu v1.0"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#2b0680"
             }
           },
           "_tags": [
@@ -4051,7 +3664,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#cccccc",
             "showMeta": true
           },
           "title": "TAVUK KANAT",
@@ -4064,8 +3677,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Responsive",
@@ -4098,10 +3711,10 @@
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#cccccc",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -4111,41 +3724,12 @@
           "allItem": "All"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-34",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/tavukkanat-2000x1337.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "color": "#c1c1c1"
+              "color": "#2b0680"
             },
             "B": {
               "color": "#efefef",
@@ -4154,7 +3738,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SMALL": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -4165,10 +3750,10 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#303030",
+            "bgColor": "#cccccc",
             "showMeta": true
           },
-          "title": "TAVUK KANAT",
+          "title": "",
           "meta": "Baharatlı Tavuk Kanat Tarifi İçin Malzemeler<br><br>1 kg tavuk kanadı,<br>1 tatlı kaşığı kekik,<br>1 tatlı kaşığı pul biber,<br>1 çay kaşığı karabiber,<br>2 diş sarımsak,<br>2 yemek kaşığı sıvı yağı,<br>Tuz.<br>Baharatlı Tavuk Kanat Yapılışı<br><br>Tavuk kanatları yıkayıp suyunu süzelim ve bir kaba alalım.<br><br>Üzerine baharatları, rendelenmiş sarımsakları, sıvı yağı ve tuzu ilave edip iyice harmanlayalım.<br><br>Sonra buzdolabına kaldırıp en az 1 saat dinlendirelim.<br><br>Daha sonra önceden ısıtılmış 250° fırında 30-35 dakika pişirelim.<br><br>İsterseniz Baharatlı Tavuk Kanatları arkalı önlü tavada da kızartabilirsiniz.<br><br>Tavukların piştiğini kanatlardan birine çatal batırarak anlayabilirsiniz. Eğer çatal rahatlıkla batıp çıkıyorsa pişmiş demektir.<br>"
         },
         {
@@ -4189,14 +3774,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#303030",
+            "bgColor": "#08d9ea",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"KEBAPLAR.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\"></span></a>          "
         }
       ]
     },
@@ -4239,13 +3824,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -4264,7 +3849,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -4501,13 +4086,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -4526,7 +4111,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -4763,13 +4348,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -4788,7 +4373,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -5025,13 +4610,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -5050,7 +4635,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -5287,13 +4872,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -5312,7 +4897,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -5549,13 +5134,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -5574,7 +5159,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
@@ -5811,13 +5396,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -5836,7 +5421,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#475577",
             "fontSize": "0.7",
             "fontName": {
               "name": "Roboto",
